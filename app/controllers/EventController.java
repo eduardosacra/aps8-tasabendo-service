@@ -8,13 +8,13 @@ import play.mvc.*;
 import com.fasterxml.jackson.databind.JsonNode;
 
 public class EventController extends Controller {
-	private ListaEvento lista;
+	private ListaEvento lista;//provisional list of events
 
 	public Result createEvent(String evento) {
 		if (lista == null) {
 			lista = new ListaEvento();
 		}
-		// TODO Verificar se consegue receber um json
+		
 		JsonNode json = Json.parse(evento);
 		Evento e = Json.fromJson(json, Evento.class);
 		String t = evento.toString();
