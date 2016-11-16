@@ -12,5 +12,10 @@ libraryDependencies ++= Seq(
   javaWs
 )
 
-
+libraryDependencies ++= Seq(
+  javaJpa,
+  "mysql" % "mysql-connector-java" % "5.1.35",
+  "org.hibernate" % "hibernate-core" % "4.2.3.Final",
+  "org.hibernate" % "hibernate-entitymanager" % "4.2.3.Final"	
+)
 fork in run := true

@@ -1,16 +1,7 @@
-New log file opened at Mon Oct 17 02:45:38 BRST 2016 by 23643@edu-Inspiron-5447
-Taking next connection to: 56818
-New client attempting to connect on port: 50636-56818
-  Address = /127.0.1.1:56818
-This client on port 50636 has uuid c49cf25b-fd14-46f9-b438-fd45418c6851 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
-Connected Clients: play-fork-run-c49cf25b-fd14-46f9-b438-fd45418c6851
-Taking next connection to: 56818
-Checking to see if clients are empty...
-We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 56818
-Checking to see if clients are empty...
-We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 56818
-Checking to see if clients are empty...
-We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 56818
+New log file opened at Wed Nov 16 10:49:55 BRST 2016 by 14517@edu-Inspiron-5447
+Taking next connection to: 55882
+New client attempting to connect on port: 37987-55882
+  Address = /127.0.1.1:55882
+This client on port 37987 has uuid 3dec5d93-35cd-46cd-9657-eb6e1e0eeb6a configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-3dec5d93-35cd-46cd-9657-eb6e1e0eeb6a
+Taking next connection to: 55882

@@ -1,4 +1,288 @@
-New log file opened at Mon Oct 17 02:43:06 BRST 2016 by 23322@edu-Inspiron-5447
+New log file opened at Wed Nov 16 10:47:30 BRST 2016 by 14009@edu-Inspiron-5447
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->org.scala-stm#scala-stm_2.11;0.7 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->org.scala-stm#scala-stm_2.11;0.7 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->commons-codec#commons-codec;1.10 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->commons-codec#commons-codec;1.10 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->joda-time#joda-time;2.9.4 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->joda-time#joda-time;2.9.4 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->org.joda#joda-convert;1.8.1 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->org.joda#joda-convert;1.8.1 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->org.apache.commons#commons-lang3;3.4 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->org.apache.commons#commons-lang3;3.4 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->xerces#xercesImpl;2.11.0 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->xerces#xercesImpl;2.11.0 [runtime->compile]
+== resolving dependencies xerces#xercesImpl;2.11.0->xml-apis#xml-apis;1.4.01 [runtime->runtime(*)]
+== resolving dependencies xerces#xercesImpl;2.11.0->xml-apis#xml-apis;1.4.01 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->javax.transaction#jta;1.1 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->javax.transaction#jta;1.1 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->com.google.inject#guice;4.0 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->com.google.inject#guice;4.0 [runtime->compile]
+== resolving dependencies com.google.inject#guice;4.0->javax.inject#javax.inject;1 [runtime->runtime(*)]
+== resolving dependencies com.google.inject#guice;4.0->javax.inject#javax.inject;1 [runtime->compile]
+== resolving dependencies com.google.inject#guice;4.0->aopalliance#aopalliance;1.0 [runtime->runtime(*)]
+== resolving dependencies com.google.inject#guice;4.0->aopalliance#aopalliance;1.0 [runtime->compile]
+== resolving dependencies com.google.inject#guice;4.0->com.google.guava#guava;16.0.1 [runtime->runtime(*)]
+== resolving dependencies com.google.inject#guice;4.0->com.google.guava#guava;16.0.1 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->com.google.inject.extensions#guice-assistedinject;4.0 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->com.google.inject.extensions#guice-assistedinject;4.0 [runtime->compile]
+== resolving dependencies com.google.inject.extensions#guice-assistedinject;4.0->com.google.inject#guice;4.0 [runtime->runtime(*)]
+== resolving dependencies com.google.inject.extensions#guice-assistedinject;4.0->com.google.inject#guice;4.0 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->org.scala-lang#scala-reflect;2.11.7 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->org.scala-lang#scala-reflect;2.11.7 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [runtime->compile]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play_2.11;2.5.6->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-server_2.11;2.5.6->com.typesafe.play#play-iteratees_2.11;2.5.6 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-server_2.11;2.5.6->com.typesafe.play#play-iteratees_2.11;2.5.6 [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-server_2.11;2.5.6 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java_2.11;2.5.6 [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java_2.11;2.5.6 [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java_2.11;2.5.6 [compile->compile]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->com.typesafe.play#play_2.11;2.5.6 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->com.typesafe.play#play_2.11;2.5.6 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.yaml#snakeyaml;1.16 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.yaml#snakeyaml;1.16 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.hibernate#hibernate-validator;5.2.4.Final [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.hibernate#hibernate-validator;5.2.4.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-validator;5.2.4.Final->javax.validation#validation-api;1.1.0.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-validator;5.2.4.Final->javax.validation#validation-api;1.1.0.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-validator;5.2.4.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-validator;5.2.4.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-validator;5.2.4.Final->com.fasterxml#classmate;1.1.0 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-validator;5.2.4.Final->com.fasterxml#classmate;1.1.0 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->javax.el#javax.el-api;3.0.0 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->javax.el#javax.el-api;3.0.0 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.springframework#spring-context;4.2.7.RELEASE [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.springframework#spring-context;4.2.7.RELEASE [compile->compile(*)]
+excluding dependency: org.springframework#spring-aop;4.2.7.RELEASE {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+excluding dependency: org.springframework#spring-beans;4.2.7.RELEASE {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+excluding dependency: org.springframework#spring-core;4.2.7.RELEASE {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+excluding dependency: org.springframework#spring-expression;4.2.7.RELEASE {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.springframework#spring-core;4.2.7.RELEASE [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.springframework#spring-core;4.2.7.RELEASE [compile->compile(*)]
+excluding dependency: commons-logging#commons-logging;1.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.springframework#spring-beans;4.2.7.RELEASE [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.springframework#spring-beans;4.2.7.RELEASE [compile->compile(*)]
+excluding dependency: org.springframework#spring-core;4.2.7.RELEASE {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.reflections#reflections;0.9.10 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.reflections#reflections;0.9.10 [compile->compile(*)]
+excluding dependency: com.google.code.findbugs#annotations;2.0.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+== resolving dependencies org.reflections#reflections;0.9.10->com.google.guava#guava;18.0 [compile->master(compile)]
+excluding dependency: com.google.code.findbugs#annotations;2.0.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+== resolving dependencies org.reflections#reflections;0.9.10->com.google.guava#guava;19.0 [compile->master(compile)]
+== resolving dependencies org.reflections#reflections;0.9.10->com.google.guava#guava;18.0 [compile->compile(*)]
+== resolving dependencies org.reflections#reflections;0.9.10->com.google.guava#guava;19.0 [compile->compile(*)]
+== resolving dependencies org.reflections#reflections;0.9.10->org.javassist#javassist;3.18.2-GA [compile->master(compile)]
+excluding dependency: com.google.code.findbugs#annotations;2.0.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+== resolving dependencies org.reflections#reflections;0.9.10->org.javassist#javassist;3.18.2-GA [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->net.jodah#typetools;0.4.4 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->net.jodah#typetools;0.4.4 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->com.google.guava#guava;19.0 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->com.google.guava#guava;19.0 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->com.google.code.findbugs#jsr305;3.0.1 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->com.google.code.findbugs#jsr305;3.0.1 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.apache.tomcat#tomcat-servlet-api;8.0.33 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.apache.tomcat#tomcat-servlet-api;8.0.33 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->com.typesafe.play#play_2.11;2.5.6 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->com.typesafe.play#play_2.11;2.5.6 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.yaml#snakeyaml;1.16 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.yaml#snakeyaml;1.16 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.hibernate#hibernate-validator;5.2.4.Final [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.hibernate#hibernate-validator;5.2.4.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-validator;5.2.4.Final->javax.validation#validation-api;1.1.0.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-validator;5.2.4.Final->javax.validation#validation-api;1.1.0.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-validator;5.2.4.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-validator;5.2.4.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-validator;5.2.4.Final->com.fasterxml#classmate;1.1.0 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-validator;5.2.4.Final->com.fasterxml#classmate;1.1.0 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->javax.el#javax.el-api;3.0.0 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->javax.el#javax.el-api;3.0.0 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.springframework#spring-context;4.2.7.RELEASE [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.springframework#spring-context;4.2.7.RELEASE [runtime->compile]
+excluding dependency: org.springframework#spring-aop;4.2.7.RELEASE {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in runtime
+excluding dependency: org.springframework#spring-beans;4.2.7.RELEASE {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in runtime
+excluding dependency: org.springframework#spring-core;4.2.7.RELEASE {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in runtime
+excluding dependency: org.springframework#spring-expression;4.2.7.RELEASE {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in runtime
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.springframework#spring-core;4.2.7.RELEASE [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.springframework#spring-core;4.2.7.RELEASE [runtime->compile]
+excluding dependency: commons-logging#commons-logging;1.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in runtime
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.springframework#spring-beans;4.2.7.RELEASE [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.springframework#spring-beans;4.2.7.RELEASE [runtime->compile]
+excluding dependency: org.springframework#spring-core;4.2.7.RELEASE {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in runtime
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.reflections#reflections;0.9.10 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.reflections#reflections;0.9.10 [runtime->compile]
+excluding dependency: com.google.code.findbugs#annotations;2.0.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in runtime
+== resolving dependencies org.reflections#reflections;0.9.10->com.google.guava#guava;18.0 [runtime->runtime(*)]
+== resolving dependencies org.reflections#reflections;0.9.10->com.google.guava#guava;19.0 [runtime->runtime(*)]
+== resolving dependencies org.reflections#reflections;0.9.10->com.google.guava#guava;19.0 [runtime->compile]
+== resolving dependencies org.reflections#reflections;0.9.10->org.javassist#javassist;3.18.2-GA [runtime->runtime(*)]
+== resolving dependencies org.reflections#reflections;0.9.10->org.javassist#javassist;3.18.2-GA [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->net.jodah#typetools;0.4.4 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->net.jodah#typetools;0.4.4 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->com.google.guava#guava;19.0 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->com.google.guava#guava;19.0 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->com.google.code.findbugs#jsr305;3.0.1 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->com.google.code.findbugs#jsr305;3.0.1 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.apache.tomcat#tomcat-servlet-api;8.0.33 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java_2.11;2.5.6->org.apache.tomcat#tomcat-servlet-api;8.0.33 [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java_2.11;2.5.6 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-netty-server_2.11;2.5.6 [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-netty-server_2.11;2.5.6 [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-netty-server_2.11;2.5.6 [compile->compile]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->com.typesafe.play#play-server_2.11;2.5.6 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->com.typesafe.play#play-server_2.11;2.5.6 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->com.typesafe.netty#netty-reactive-streams-http;1.0.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->com.typesafe.netty#netty-reactive-streams-http;1.0.7 [compile->compile(*)]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams-http;1.0.7->com.typesafe.netty#netty-reactive-streams;1.0.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams-http;1.0.7->com.typesafe.netty#netty-reactive-streams;1.0.7 [compile->compile(*)]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams;1.0.7->io.netty#netty-handler;4.0.39.Final [compile->master(compile)]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams;1.0.7->io.netty#netty-handler;4.0.39.Final [compile->compile(*)]
+== resolving dependencies io.netty#netty-handler;4.0.39.Final->io.netty#netty-buffer;4.0.39.Final [compile->master(compile)]
+== resolving dependencies io.netty#netty-handler;4.0.39.Final->io.netty#netty-buffer;4.0.39.Final [compile->compile(*)]
+== resolving dependencies io.netty#netty-buffer;4.0.39.Final->io.netty#netty-common;4.0.39.Final [compile->master(compile)]
+== resolving dependencies io.netty#netty-buffer;4.0.39.Final->io.netty#netty-common;4.0.39.Final [compile->compile(*)]
+== resolving dependencies io.netty#netty-handler;4.0.39.Final->io.netty#netty-transport;4.0.39.Final [compile->master(compile)]
+== resolving dependencies io.netty#netty-handler;4.0.39.Final->io.netty#netty-transport;4.0.39.Final [compile->compile(*)]
+== resolving dependencies io.netty#netty-transport;4.0.39.Final->io.netty#netty-buffer;4.0.39.Final [compile->master(compile)]
+== resolving dependencies io.netty#netty-transport;4.0.39.Final->io.netty#netty-buffer;4.0.39.Final [compile->compile(*)]
+== resolving dependencies io.netty#netty-handler;4.0.39.Final->io.netty#netty-codec;4.0.39.Final [compile->master(compile)]
+== resolving dependencies io.netty#netty-handler;4.0.39.Final->io.netty#netty-codec;4.0.39.Final [compile->compile(*)]
+== resolving dependencies io.netty#netty-codec;4.0.39.Final->io.netty#netty-transport;4.0.39.Final [compile->master(compile)]
+== resolving dependencies io.netty#netty-codec;4.0.39.Final->io.netty#netty-transport;4.0.39.Final [compile->compile(*)]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams;1.0.7->org.reactivestreams#reactive-streams;1.0.0 [compile->master(compile)]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams;1.0.7->org.reactivestreams#reactive-streams;1.0.0 [compile->compile(*)]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams-http;1.0.7->io.netty#netty-codec-http;4.0.39.Final [compile->master(compile)]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams-http;1.0.7->io.netty#netty-codec-http;4.0.39.Final [compile->compile(*)]
+== resolving dependencies io.netty#netty-codec-http;4.0.39.Final->io.netty#netty-codec;4.0.39.Final [compile->master(compile)]
+== resolving dependencies io.netty#netty-codec-http;4.0.39.Final->io.netty#netty-codec;4.0.39.Final [compile->compile(*)]
+== resolving dependencies io.netty#netty-codec-http;4.0.39.Final->io.netty#netty-handler;4.0.39.Final [compile->master(compile)]
+== resolving dependencies io.netty#netty-codec-http;4.0.39.Final->io.netty#netty-handler;4.0.39.Final [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->io.netty#netty-transport-native-epoll;4.0.39.Final [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->io.netty#netty-transport-native-epoll;4.0.39.Final [compile->compile(*)]
+== resolving dependencies io.netty#netty-transport-native-epoll;4.0.39.Final->io.netty#netty-common;4.0.39.Final [compile->master(compile)]
+== resolving dependencies io.netty#netty-transport-native-epoll;4.0.39.Final->io.netty#netty-common;4.0.39.Final [compile->compile(*)]
+== resolving dependencies io.netty#netty-transport-native-epoll;4.0.39.Final->io.netty#netty-buffer;4.0.39.Final [compile->master(compile)]
+== resolving dependencies io.netty#netty-transport-native-epoll;4.0.39.Final->io.netty#netty-buffer;4.0.39.Final [compile->compile(*)]
+== resolving dependencies io.netty#netty-transport-native-epoll;4.0.39.Final->io.netty#netty-transport;4.0.39.Final [compile->master(compile)]
+== resolving dependencies io.netty#netty-transport-native-epoll;4.0.39.Final->io.netty#netty-transport;4.0.39.Final [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->com.typesafe.play#play-server_2.11;2.5.6 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->com.typesafe.play#play-server_2.11;2.5.6 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->com.typesafe.netty#netty-reactive-streams-http;1.0.7 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->com.typesafe.netty#netty-reactive-streams-http;1.0.7 [runtime->compile]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams-http;1.0.7->com.typesafe.netty#netty-reactive-streams;1.0.7 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams-http;1.0.7->com.typesafe.netty#netty-reactive-streams;1.0.7 [runtime->compile]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams;1.0.7->io.netty#netty-handler;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams;1.0.7->io.netty#netty-handler;4.0.39.Final [runtime->compile]
+== resolving dependencies io.netty#netty-handler;4.0.39.Final->io.netty#netty-buffer;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies io.netty#netty-handler;4.0.39.Final->io.netty#netty-buffer;4.0.39.Final [runtime->compile]
+== resolving dependencies io.netty#netty-buffer;4.0.39.Final->io.netty#netty-common;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies io.netty#netty-buffer;4.0.39.Final->io.netty#netty-common;4.0.39.Final [runtime->compile]
+== resolving dependencies io.netty#netty-handler;4.0.39.Final->io.netty#netty-transport;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies io.netty#netty-handler;4.0.39.Final->io.netty#netty-transport;4.0.39.Final [runtime->compile]
+== resolving dependencies io.netty#netty-transport;4.0.39.Final->io.netty#netty-buffer;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies io.netty#netty-transport;4.0.39.Final->io.netty#netty-buffer;4.0.39.Final [runtime->compile]
+== resolving dependencies io.netty#netty-handler;4.0.39.Final->io.netty#netty-codec;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies io.netty#netty-handler;4.0.39.Final->io.netty#netty-codec;4.0.39.Final [runtime->compile]
+== resolving dependencies io.netty#netty-codec;4.0.39.Final->io.netty#netty-transport;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies io.netty#netty-codec;4.0.39.Final->io.netty#netty-transport;4.0.39.Final [runtime->compile]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams;1.0.7->org.reactivestreams#reactive-streams;1.0.0 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams;1.0.7->org.reactivestreams#reactive-streams;1.0.0 [runtime->compile]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams-http;1.0.7->io.netty#netty-codec-http;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies com.typesafe.netty#netty-reactive-streams-http;1.0.7->io.netty#netty-codec-http;4.0.39.Final [runtime->compile]
+== resolving dependencies io.netty#netty-codec-http;4.0.39.Final->io.netty#netty-codec;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies io.netty#netty-codec-http;4.0.39.Final->io.netty#netty-codec;4.0.39.Final [runtime->compile]
+== resolving dependencies io.netty#netty-codec-http;4.0.39.Final->io.netty#netty-handler;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies io.netty#netty-codec-http;4.0.39.Final->io.netty#netty-handler;4.0.39.Final [runtime->compile]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->io.netty#netty-transport-native-epoll;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-netty-server_2.11;2.5.6->io.netty#netty-transport-native-epoll;4.0.39.Final [runtime->compile]
+== resolving dependencies io.netty#netty-transport-native-epoll;4.0.39.Final->io.netty#netty-common;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies io.netty#netty-transport-native-epoll;4.0.39.Final->io.netty#netty-common;4.0.39.Final [runtime->compile]
+== resolving dependencies io.netty#netty-transport-native-epoll;4.0.39.Final->io.netty#netty-buffer;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies io.netty#netty-transport-native-epoll;4.0.39.Final->io.netty#netty-buffer;4.0.39.Final [runtime->compile]
+== resolving dependencies io.netty#netty-transport-native-epoll;4.0.39.Final->io.netty#netty-transport;4.0.39.Final [runtime->runtime(*)]
+== resolving dependencies io.netty#netty-transport-native-epoll;4.0.39.Final->io.netty#netty-transport;4.0.39.Final [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-netty-server_2.11;2.5.6 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-logback_2.11;2.5.6 [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-logback_2.11;2.5.6 [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-logback_2.11;2.5.6 [compile->compile]
+== resolving dependencies com.typesafe.play#play-logback_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-logback_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-logback_2.11;2.5.6->com.typesafe.play#play_2.11;2.5.6 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-logback_2.11;2.5.6->com.typesafe.play#play_2.11;2.5.6 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-logback_2.11;2.5.6->ch.qos.logback#logback-classic;1.1.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-logback_2.11;2.5.6->ch.qos.logback#logback-classic;1.1.7 [compile->compile(*)]
+== resolving dependencies ch.qos.logback#logback-classic;1.1.7->ch.qos.logback#logback-core;1.1.7 [compile->master(compile)]
+== resolving dependencies ch.qos.logback#logback-classic;1.1.7->ch.qos.logback#logback-core;1.1.7 [compile->compile(*)]
+== resolving dependencies ch.qos.logback#logback-classic;1.1.7->org.slf4j#slf4j-api;1.7.20 [compile->master(compile)]
+== resolving dependencies ch.qos.logback#logback-classic;1.1.7->org.slf4j#slf4j-api;1.7.21 [compile->master(compile)]
+== resolving dependencies ch.qos.logback#logback-classic;1.1.7->org.slf4j#slf4j-api;1.7.20 [compile->compile(*)]
+== resolving dependencies ch.qos.logback#logback-classic;1.1.7->org.slf4j#slf4j-api;1.7.21 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-logback_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-logback_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-logback_2.11;2.5.6->com.typesafe.play#play_2.11;2.5.6 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-logback_2.11;2.5.6->com.typesafe.play#play_2.11;2.5.6 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-logback_2.11;2.5.6->ch.qos.logback#logback-classic;1.1.7 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-logback_2.11;2.5.6->ch.qos.logback#logback-classic;1.1.7 [runtime->compile]
+== resolving dependencies ch.qos.logback#logback-classic;1.1.7->ch.qos.logback#logback-core;1.1.7 [runtime->runtime(*)]
+== resolving dependencies ch.qos.logback#logback-classic;1.1.7->ch.qos.logback#logback-core;1.1.7 [runtime->compile]
+== resolving dependencies ch.qos.logback#logback-classic;1.1.7->org.slf4j#slf4j-api;1.7.20 [runtime->runtime(*)]
+== resolving dependencies ch.qos.logback#logback-classic;1.1.7->org.slf4j#slf4j-api;1.7.21 [runtime->runtime(*)]
+== resolving dependencies ch.qos.logback#logback-classic;1.1.7->org.slf4j#slf4j-api;1.7.21 [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-logback_2.11;2.5.6 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [compile->compile]
+== resolving dependencies com.typesafe.play#play-java-jdbc_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jdbc_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jdbc_2.11;2.5.6->com.typesafe.play#play-jdbc_2.11;2.5.6 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jdbc_2.11;2.5.6->com.typesafe.play#play-jdbc_2.11;2.5.6 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->com.typesafe.play#play-jdbc-api_2.11;2.5.6 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->com.typesafe.play#play-jdbc-api_2.11;2.5.6 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-jdbc-api_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-jdbc-api_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-jdbc-api_2.11;2.5.6->com.typesafe.play#play_2.11;2.5.6 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-jdbc-api_2.11;2.5.6->com.typesafe.play#play_2.11;2.5.6 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->com.jolbox#bonecp;0.8.0.RELEASE [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->com.jolbox#bonecp;0.8.0.RELEASE [compile->compile(*)]
+== resolving dependencies com.jolbox#bonecp;0.8.0.RELEASE->com.google.guava#guava;15.0 [compile->master(compile)]
+== resolving dependencies com.jolbox#bonecp;0.8.0.RELEASE->com.google.guava#guava;19.0 [compile->master(compile)]
+== resolving dependencies com.jolbox#bonecp;0.8.0.RELEASE->com.google.guava#guava;15.0 [compile->compile(*)]
+== resolving dependencies com.jolbox#bonecp;0.8.0.RELEASE->com.google.guava#guava;19.0 [compile->compile(*)]
+== resolving dependencies com.jolbox#bonecp;0.8.0.RELEASE->org.slf4j#slf4j-api;1.7.2 [compile->master(compile)]
+== resolving dependencies com.jolbox#bonecp;0.8.0.RELEASE->org.slf4j#slf4j-api;1.7.21 [compile->master(compile)]
+== resolving dependencies com.jolbox#bonecp;0.8.0.RELEASE->org.slf4j#slf4j-api;1.7.2 [compile->compile(*)]
+== resolving dependencies com.jolbox#bonecp;0.8.0.RELEASE->org.slf4j#slf4j-api;1.7.21 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->com.zaxxer#HikariCP;2.4.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->com.zaxxer#HikariCP;2.4.7 [compile->compile(*)]
+== resolving dependencies com.zaxxer#HikariCP;2.4.7->org.slf4j#slf4j-api;1.7.21 [compile->master(compile)]
+== resolving dependencies com.zaxxer#HikariCP;2.4.7->org.slf4j#slf4j-api;1.7.21 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->com.googlecode.usc#jdbcdslog;1.0.6.2 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->com.googlecode.usc#jdbcdslog;1.0.6.2 [compile->compile(*)]
+== resolving dependencies com.googlecode.usc#jdbcdslog;1.0.6.2->org.slf4j#slf4j-api;1.5.10 [compile->master(compile)]
+== resolving dependencies com.googlecode.usc#jdbcdslog;1.0.6.2->org.slf4j#slf4j-api;1.7.21 [compile->master(compile)]
+== resolving dependencies com.googlecode.usc#jdbcdslog;1.0.6.2->org.slf4j#slf4j-api;1.5.10 [compile->compile(*)]
+== resolving dependencies com.googlecode.usc#jdbcdslog;1.0.6.2->org.slf4j#slf4j-api;1.7.21 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->com.h2database#h2;1.4.192 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->com.h2database#h2;1.4.192 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->tyrex#tyrex;1.0.1 [compile->master(compile)]
 == resolving dependencies com.typesafe.play#play-jdbc_2.11;2.5.6->tyrex#tyrex;1.0.1 [compile->compile(*)]
 == resolving dependencies com.typesafe.play#play-java-jdbc_2.11;2.5.6->com.typesafe.play#play-java_2.11;2.5.6 [compile->master(compile)]
 == resolving dependencies com.typesafe.play#play-java-jdbc_2.11;2.5.6->com.typesafe.play#play-java_2.11;2.5.6 [compile->compile(*)]
@@ -218,6 +502,110 @@ New log file opened at Mon Oct 17 02:43:06 BRST 2016 by 23322@edu-Inspiron-5447
 == resolving dependencies com.typesafe.play#play-java-ws_2.11;2.5.6->oauth.signpost#signpost-commonshttp4;1.2.1.2 [runtime->runtime(*)]
 == resolving dependencies com.typesafe.play#play-java-ws_2.11;2.5.6->oauth.signpost#signpost-commonshttp4;1.2.1.2 [runtime->compile]
 == resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-ws_2.11;2.5.6 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->compile]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->compile(*)]
+excluding dependency: xml-apis#xml-apis;1.0.b2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->compile(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.1.0.CR2 [compile->master(compile)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.1.0.CR2 [compile->compile(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->compile]
+excluding dependency: xml-apis#xml-apis;1.0.b2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in runtime
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->compile]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.1.0.CR2 [runtime->runtime(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.15.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.15.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->master]
 == resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-test_2.11;2.5.6 [test->default(compile)]
 Read from stdout: Resolving com.typesafe.play#play-test_2.11;2.5.6 ...
 Resolving com.typesafe.play#play-test_2.11;2.5.6 ...
@@ -1680,6 +2068,110 @@ excluding dependency: com.google.code.findbugs#annotations;2.0.1 {compile=[compi
 == resolving dependencies com.typesafe.play#play-java-ws_2.11;2.5.6->oauth.signpost#signpost-commonshttp4;1.2.1.2 [runtime->runtime(*)]
 == resolving dependencies com.typesafe.play#play-java-ws_2.11;2.5.6->oauth.signpost#signpost-commonshttp4;1.2.1.2 [runtime->compile]
 == resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-ws_2.11;2.5.6 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->compile]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->compile(*)]
+excluding dependency: xml-apis#xml-apis;1.0.b2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->compile(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.1.0.CR2 [compile->master(compile)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.1.0.CR2 [compile->compile(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->compile]
+excluding dependency: xml-apis#xml-apis;1.0.b2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in runtime
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->compile]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.1.0.CR2 [runtime->runtime(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.15.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.15.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->master]
 == resolving dependencies for aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT [optional]
 == resolving dependencies for aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT [provided]
 resolving dependencies for configuration 'runtime-internal'
@@ -2579,6 +3071,110 @@ excluding dependency: com.google.code.findbugs#annotations;2.0.1 {compile=[compi
 == resolving dependencies com.typesafe.play#play-java-ws_2.11;2.5.6->oauth.signpost#signpost-commonshttp4;1.2.1.2 [runtime->runtime(*)]
 == resolving dependencies com.typesafe.play#play-java-ws_2.11;2.5.6->oauth.signpost#signpost-commonshttp4;1.2.1.2 [runtime->compile]
 == resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-ws_2.11;2.5.6 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->compile]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->compile(*)]
+excluding dependency: xml-apis#xml-apis;1.0.b2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->compile(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.1.0.CR2 [compile->master(compile)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.1.0.CR2 [compile->compile(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->compile]
+excluding dependency: xml-apis#xml-apis;1.0.b2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in runtime
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->compile]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.1.0.CR2 [runtime->runtime(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.15.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.15.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->master]
 == resolving dependencies for aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT [optional]
 resolving dependencies for configuration 'test-internal'
 == resolving dependencies for aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT [test-internal]
@@ -3478,6 +4074,110 @@ excluding dependency: com.google.code.findbugs#annotations;2.0.1 {compile=[compi
 == resolving dependencies com.typesafe.play#play-java-ws_2.11;2.5.6->oauth.signpost#signpost-commonshttp4;1.2.1.2 [runtime->runtime(*)]
 == resolving dependencies com.typesafe.play#play-java-ws_2.11;2.5.6->oauth.signpost#signpost-commonshttp4;1.2.1.2 [runtime->compile]
 == resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-ws_2.11;2.5.6 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->compile]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [compile->master(compile)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [compile->compile(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.scala-lang#scala-library;2.11.7 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->com.typesafe.play#play-java-jdbc_2.11;2.5.6 [runtime->compile]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [runtime->runtime(*)]
+== resolving dependencies com.typesafe.play#play-java-jpa_2.11;2.5.6->org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-java-jpa_2.11;2.5.6 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->mysql#mysql-connector-java;5.1.35 [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->compile(*)]
+excluding dependency: xml-apis#xml-apis;1.0.b2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in compile
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->compile(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.1.0.CR2 [compile->master(compile)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.1.0.CR2 [compile->compile(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->antlr#antlr;2.7.7 [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->compile]
+excluding dependency: xml-apis#xml-apis;1.0.b2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} in runtime
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->compile]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.1.0.CR2 [runtime->runtime(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate.common#hibernate-commons-annotations;4.0.2.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.15.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-core;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-core;4.2.3.Final [compile->master]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->default(compile)]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->runtime]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.15.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [compile->master(compile)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [compile->compile(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.1.0.GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.logging#jboss-logging;3.2.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->dom4j#dom4j;1.6.1 [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate.common#hibernate-commons-annotations;4.0.2.Final [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.15.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.javassist#javassist;3.20.0-GA [runtime->compile]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [runtime->runtime(*)]
+== resolving dependencies org.hibernate#hibernate-entitymanager;4.2.3.Final->org.hibernate#hibernate-core;4.2.3.Final [runtime->compile]
+== resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->org.hibernate#hibernate-entitymanager;4.2.3.Final [compile->master]
 == resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-test_2.11;2.5.6 [test->default(compile)]
 == resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-test_2.11;2.5.6 [test->runtime]
 == resolving dependencies aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT->com.typesafe.play#play-test_2.11;2.5.6 [test->compile]
@@ -4989,6 +5689,10 @@ all callers are evicted for commons-logging#commons-logging;1.1.1: evicting too
 	[NOT REQUIRED] com.typesafe.play#play-java-jdbc_2.11;2.5.6!play-java-jdbc_2.11.jar
 	[NOT REQUIRED] com.typesafe.play#play-cache_2.11;2.5.6!play-cache_2.11.jar
 	[NOT REQUIRED] com.typesafe.play#play-java-ws_2.11;2.5.6!play-java-ws_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-java-jpa_2.11;2.5.6!play-java-jpa_2.11.jar
+	[NOT REQUIRED] mysql#mysql-connector-java;5.1.35!mysql-connector-java.jar
+	[NOT REQUIRED] org.hibernate#hibernate-core;4.2.3.Final!hibernate-core.jar
+	[NOT REQUIRED] org.hibernate#hibernate-entitymanager;4.2.3.Final!hibernate-entitymanager.jar
 	[NOT REQUIRED] org.apache.commons#commons-lang3;3.4!commons-lang3.jar
 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(bundle)
 	[NOT REQUIRED] com.typesafe.play#play_2.11;2.5.6!play_2.11.jar
@@ -5074,6 +5778,12 @@ all callers are evicted for commons-logging#commons-logging;1.1.1: evicting too
 	[NOT REQUIRED] org.apache.httpcomponents#httpcore;4.0.1!httpcore.jar
 	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.0.1!httpclient.jar
 	[NOT REQUIRED] commons-logging#commons-logging;1.1.1!commons-logging.jar
+	[NOT REQUIRED] org.hibernate.javax.persistence#hibernate-jpa-2.1-api;1.0.0.Final!hibernate-jpa-2.1-api.jar
+	[NOT REQUIRED] antlr#antlr;2.7.7!antlr.jar
+	[NOT REQUIRED] dom4j#dom4j;1.6.1!dom4j.jar
+	[NOT REQUIRED] org.jboss.spec.javax.transaction#jboss-transaction-api_1.1_spec;1.0.1.Final!jboss-transaction-api_1.1_spec.jar
+	[NOT REQUIRED] org.hibernate.javax.persistence#hibernate-jpa-2.0-api;1.0.1.Final!hibernate-jpa-2.0-api.jar
+	[NOT REQUIRED] org.hibernate.common#hibernate-commons-annotations;4.0.2.Final!hibernate-commons-annotations.jar
 	[NOT REQUIRED] com.typesafe.play#play-test_2.11;2.5.6!play-test_2.11.jar
 	[NOT REQUIRED] junit#junit;4.12!junit.jar
 	[NOT REQUIRED] com.novocode#junit-interface;0.11!junit-interface.jar
@@ -5155,7 +5865,7 @@ all callers are evicted for commons-logging#commons-logging;1.1.1: evicting too
 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.3.8!akka-actor_2.11.jar
 	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.11;2.3.8!akka-testkit_2.11.jar
 	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar(bundle)
-:: resolution report :: resolve 4571ms :: artifacts dl 115ms
+:: resolution report :: resolve 10078ms :: artifacts dl 731ms
 	report for aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT compile produced in /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/resolution-cache/reports/aps-tasabendo-service-aps-tasabendo-service_2.11-compile.xml
 	report for aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT runtime produced in /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/resolution-cache/reports/aps-tasabendo-service-aps-tasabendo-service_2.11-runtime.xml
 	report for aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT test produced in /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/resolution-cache/reports/aps-tasabendo-service-aps-tasabendo-service_2.11-test.xml
@@ -5170,214 +5880,50 @@ all callers are evicted for commons-logging#commons-logging;1.1.1: evicting too
 	report for aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT pom produced in /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/resolution-cache/reports/aps-tasabendo-service-aps-tasabendo-service_2.11-pom.xml
 	report for aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT scala-tool produced in /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/resolution-cache/reports/aps-tasabendo-service-aps-tasabendo-service_2.11-scala-tool.xml
 	report for aps-tasabendo-service#aps-tasabendo-service_2.11;1.0-SNAPSHOT fork-run produced in /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/resolution-cache/reports/aps-tasabendo-service-aps-tasabendo-service_2.11-fork-run.xml
-	resolve done (4571ms resolve - 115ms download)
+	resolve done (10078ms resolve - 731ms download)
 Read from stdout: Done updating.
 Done updating.
-Total time: 5 s, completed 17/10/2016 02:43:09
+Total time: 13 s, completed 16/11/2016 10:47:37
 > server-post-command-cleanup
 > server-handle-next-server-request
 > root/playForkNotifyStart http://localhost:9000
 Evaluating tasks: *:playForkNotifyStart
-Running task... Cancel: sbt.server.ServerTaskCancellation@1cf9403d, check cycles: false
-Total time: 0 s, completed 17/10/2016 02:43:11
+Running task... Cancel: sbt.server.ServerTaskCancellation@68640b5f, check cycles: false
+Total time: 0 s, completed 16/11/2016 10:47:44
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@6db9211d, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@60aae3cc, check cycles: false
+SLF4J: The following set of substitute loggers may have been accessed
+SLF4J: during the initialization phase. Logging calls during this
+SLF4J: phase were not honored. However, subsequent logging calls to these
+SLF4J: loggers will work as normally expected.
+SLF4J: See also http://www.slf4j.org/codes.html#substituteLogger
+SLF4J: org.webjars.CloseQuietly
 
 Initial source changes: 
 	removed:Set()
-	added: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Filters.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/EventController.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/HomeController.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/Counter.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/ListaEvento.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/main.template.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/CountController.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Module.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/Evento.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/index.template.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/AsyncController.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/AtomicCounter.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/filters/ExampleFilter.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/ApplicationTimer.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/routes.java)
+	added: Set()
 	modified: Set()
 Removed products: Set()
 External API changes: API Changes: Set()
 Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Filters.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/EventController.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/HomeController.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/Counter.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/ListaEvento.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/main.template.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/CountController.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Module.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/Evento.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/index.template.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/AsyncController.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/AtomicCounter.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/filters/ExampleFilter.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/ApplicationTimer.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/routes.java)
+Initial directly invalidated sources: Set()
 
 Sources indirectly invalidated by:
 	product: Set()
 	binary dep: Set()
 	external source: Set()
-All initially invalidated sources: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Filters.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/EventController.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/HomeController.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/Counter.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/ListaEvento.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/main.template.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/CountController.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Module.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/Evento.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/index.template.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/AsyncController.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/AtomicCounter.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/filters/ExampleFilter.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/ApplicationTimer.java, /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/routes.java)
+All initially invalidated sources: Set()
 
-Recompiling all 19 sources: invalidated sources (19) exceeded 50.0% of all sources
-Read from stdout: Compiling 6 Scala sources and 13 Java sources to /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/classes...
-Compiling 6 Scala sources and 13 Java sources to /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/classes...
-Getting compiler-interface from component compiler for Scala 2.11.7
-Other repositories:
-Default repositories:
-Warning: node.js detection failed, sbt will use the Rhino based Trireme JavaScript engine instead to run JavaScript assets compilation, which in some cases may be orders of magnitude slower than using node.js.
-Getting compiler-interface from component compiler for Scala 2.11.7
-Other repositories:
-Default repositories:
-Running cached compiler 2163e4e0, interfacing (CompilerInterface) with Scala compiler version 2.11.7
-Calling Scala compiler with arguments  (CompilerInterface):
-	-deprecation
-	-unchecked
-	-encoding
-	utf8
-	-bootclasspath
-	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/edu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
-	-classpath
-	/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/classes:/home/edu/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.1.1.jar:/home/edu/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.4.jar:/home/edu/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-enhancer/jars/play-enhancer-1.1.0.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-server_2.11/jars/play-server_2.11-2.5.6.jar:/home/edu/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.6.jar:/home/edu/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.5.6.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.5.6.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.5.6.jar:/home/edu/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar:/home/edu/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.6.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.5.6.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.5.6.jar:/home/edu/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.4.jar:/home/edu/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.8.1.jar:/home/edu/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar:/home/edu/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.7.6.jar:/home/edu/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.7.6.jar:/home/edu/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.7.6.jar:/home/edu/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/bundles/jackson-datatype-jdk8-2.7.6.jar:/home/edu/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/bundles/jackson-datatype-jsr310-2.7.6.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-netty-utils/jars/play-netty-utils-2.5.6.jar:/home/edu/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.21.jar:/home/edu/.ivy2/cache/org.slf4j/jul-to-slf4j/jars/jul-to-slf4j-1.7.21.jar:/home/edu/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.21.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-streams_2.11/jars/play-streams_2.11-2.5.6.jar:/home/edu/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.0.jar:/home/edu/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.9.jar:/home/edu/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.9.jar:/home/edu/.ivy2/cache/org.scala-lang.modules/scala-java8-compat_2.11/bundles/scala-java8-compat_2.11-0.7.0.jar:/home/edu/.ivy2/cache/com.typesafe/ssl-config-akka_2.11/bundles/ssl-config-akka_2.11-0.2.1.jar:/home/edu/.ivy2/cache/com.typesafe/ssl-config-core_2.11/bundles/ssl-config-core_2.11-0.2.1.jar:/home/edu/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar:/home/edu/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.11/jars/akka-slf4j_2.11-2.4.9.jar:/home/edu/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.10.jar:/home/edu/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.11.0.jar:/home/edu/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar:/home/edu/.ivy2/cache/javax.transaction/jta/jars/jta-1.1.jar:/home/edu/.ivy2/cache/com.google.inject/guice/jars/guice-4.0.jar:/home/edu/.ivy2/cache/javax.inject/javax.inject/jars/javax.inject-1.jar:/home/edu/.ivy2/cache/aopalliance/aopalliance/jars/aopalliance-1.0.jar:/home/edu/.ivy2/cache/com.google.inject.extensions/guice-assistedinject/jars/guice-assistedinject-4.0.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.5.6.jar:/home/edu/.ivy2/cache/org.yaml/snakeyaml/bundles/snakeyaml-1.16.jar:/home/edu/.ivy2/cache/org.hibernate/hibernate-validator/jars/hibernate-validator-5.2.4.Final.jar:/home/edu/.ivy2/cache/javax.validation/validation-api/jars/validation-api-1.1.0.Final.jar:/home/edu/.ivy2/cache/org.jboss.logging/jboss-logging/jars/jboss-logging-3.2.1.Final.jar:/home/edu/.ivy2/cache/com.fasterxml/classmate/bundles/classmate-1.1.0.jar:/home/edu/.ivy2/cache/javax.el/javax.el-api/jars/javax.el-api-3.0.0.jar:/home/edu/.ivy2/cache/org.springframework/spring-context/jars/spring-context-4.2.7.RELEASE.jar:/home/edu/.ivy2/cache/org.springframework/spring-core/jars/spring-core-4.2.7.RELEASE.jar:/home/edu/.ivy2/cache/org.springframework/spring-beans/jars/spring-beans-4.2.7.RELEASE.jar:/home/edu/.ivy2/cache/org.reflections/reflections/jars/reflections-0.9.10.jar:/home/edu/.ivy2/cache/com.google.guava/guava/bundles/guava-19.0.jar:/home/edu/.ivy2/cache/net.jodah/typetools/bundles/typetools-0.4.4.jar:/home/edu/.ivy2/cache/com.google.code.findbugs/jsr305/jars/jsr305-3.0.1.jar:/home/edu/.ivy2/cache/org.apache.tomcat/tomcat-servlet-api/jars/tomcat-servlet-api-8.0.33.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-netty-server_2.11/jars/play-netty-server_2.11-2.5.6.jar:/home/edu/.ivy2/cache/com.typesafe.netty/netty-reactive-streams-http/jars/netty-reactive-streams-http-1.0.7.jar:/home/edu/.ivy2/cache/com.typesafe.netty/netty-reactive-streams/jars/netty-reactive-streams-1.0.7.jar:/home/edu/.ivy2/cache/io.netty/netty-handler/jars/netty-handler-4.0.39.Final.jar:/home/edu/.ivy2/cache/io.netty/netty-buffer/jars/netty-buffer-4.0.39.Final.jar:/home/edu/.ivy2/cache/io.netty/netty-common/jars/netty-common-4.0.39.Final.jar:/home/edu/.ivy2/cache/io.netty/netty-transport/jars/netty-transport-4.0.39.Final.jar:/home/edu/.ivy2/cache/io.netty/netty-codec/jars/netty-codec-4.0.39.Final.jar:/home/edu/.ivy2/cache/io.netty/netty-codec-http/jars/netty-codec-http-4.0.39.Final.jar:/home/edu/.ivy2/cache/io.netty/netty-transport-native-epoll/jars/netty-transport-native-epoll-4.0.39.Final-linux-x86_64.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-logback_2.11/jars/play-logback_2.11-2.5.6.jar:/home/edu/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.1.7.jar:/home/edu/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.1.7.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-java-jdbc_2.11/jars/play-java-jdbc_2.11-2.5.6.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-jdbc_2.11/jars/play-jdbc_2.11-2.5.6.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-jdbc-api_2.11/jars/play-jdbc-api_2.11-2.5.6.jar:/home/edu/.ivy2/cache/com.jolbox/bonecp/bundles/bonecp-0.8.0.RELEASE.jar:/home/edu/.ivy2/cache/com.zaxxer/HikariCP/bundles/HikariCP-2.4.7.jar:/home/edu/.ivy2/cache/com.googlecode.usc/jdbcdslog/jars/jdbcdslog-1.0.6.2.jar:/home/edu/.ivy2/cache/com.h2database/h2/jars/h2-1.4.192.jar:/home/edu/.ivy2/cache/tyrex/tyrex/jars/tyrex-1.0.1.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-cache_2.11/jars/play-cache_2.11-2.5.6.jar:/home/edu/.ivy2/cache/net.sf.ehcache/ehcache-core/jars/ehcache-core-2.6.11.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-java-ws_2.11/jars/play-java-ws_2.11-2.5.6.jar:/home/edu/.ivy2/cache/com.typesafe.play/play-ws_2.11/jars/play-ws_2.11-2.5.6.jar:/home/edu/.ivy2/cache/org.asynchttpclient/async-http-client/jars/async-http-client-2.0.11.jar:/home/edu/.ivy2/cache/org.asynchttpclient/netty-resolver-dns/jars/netty-resolver-dns-2.0.11.jar:/home/edu/.ivy2/cache/org.asynchttpclient/netty-resolver/jars/netty-resolver-2.0.11.jar:/home/edu/.ivy2/cache/org.asynchttpclient/netty-codec-dns/jars/netty-codec-dns-2.0.11.jar:/home/edu/.ivy2/cache/org.javassist/javassist/bundles/javassist-3.20.0-GA.jar:/home/edu/.ivy2/cache/oauth.signpost/signpost-core/jars/signpost-core-1.2.1.2.jar:/home/edu/.ivy2/cache/oauth.signpost/signpost-commonshttp4/jars/signpost-commonshttp4-1.2.1.2.jar:/home/edu/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.0.1.jar:/home/edu/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.0.1.jar:/home/edu/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar
-Scala compilation took 11.467115743 s
-Attempting to call com.sun.tools.javac.api.JavacTool@32442480 directly...
-Java compilation took 2.065542039 s
-Java analysis took 0.015190085 s
-Java compile + analysis took 2.097279841 s
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Module.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Module.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Module.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Module.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Module.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala source file has the following regular definitions changed:
-	notify, count, _defaultPrefix, wait, $asInstanceOf, equals, asInstanceOf, listaEvent, synchronized, ReverseHomeController, $isInstanceOf, ReverseCountController, ReverseAssets, ReverseAsyncController, notifyAll, isInstanceOf, <init>, ==, clone, createEvent, message, toString, !=, getClass, ne, ReverseEventController, versioned, eq, ##, finalize, index, hashCode.
-All member reference dependencies will be considered within this context.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/AtomicCounter.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/AtomicCounter.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/AtomicCounter.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/AtomicCounter.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/AtomicCounter.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/filters/ExampleFilter.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/filters/ExampleFilter.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/filters/ExampleFilter.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/filters/ExampleFilter.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/filters/ExampleFilter.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/RoutesPrefix.scala...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/RoutesPrefix.scala...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/RoutesPrefix.scala)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/RoutesPrefix.scala)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/RoutesPrefix.scala source file has the following regular definitions changed:
-	notify, byNamePrefix, wait, $asInstanceOf, equals, prefix, asInstanceOf, RoutesPrefix, synchronized, $isInstanceOf, _prefix, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, setPrefix, ne, eq, ##, finalize, hashCode.
-All member reference dependencies will be considered within this context.
-The following modified names cause invalidation of /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala: Set(prefix, asInstanceOf, RoutesPrefix, isInstanceOf, getClass, setPrefix)
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Filters.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Filters.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Filters.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Filters.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/Filters.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/CountController.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/CountController.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/CountController.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/CountController.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/CountController.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-None of the modified names appears in /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala. This dependency is not being considered for invalidation.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/index.template.scala...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/index.template.scala...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/index.template.scala)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/index.template.scala)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/index.template.scala source file has the following regular definitions changed:
-	notify, format, wait, $asInstanceOf, productArity, equals, asInstanceOf, f, synchronized, _display_, $isInstanceOf, ref, canEqual, index_Scope0, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, copy, toString, !=, getClass, copy$default$1, render, ne, eq, productIterator, ##, finalize, index, productElement, hashCode.
-All member reference dependencies will be considered within this context.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala source file has the following regular definitions changed:
-	notify, badRequest, wait, controllers_CountController_count1_invoker, $asInstanceOf, routes, createInvoker, equals, prefix, controllers_Assets_versioned3_route, asInstanceOf, documentation, synchronized, $isInstanceOf, handlerFor, controllers_EventController_listaEvent5_invoker, controllers_CountController_count1_route, controllers_EventController_createEvent4_route, notifyAll, isInstanceOf, asJava, errorHandler, <init>, controllers_Assets_versioned3_invoker, controllers_EventController_listaEvent5_route, ==, clone, controllers_AsyncController_message2_route, Routes, controllers_EventController_createEvent4_invoker, controllers_AsyncController_message2_invoker, toString, !=, controllers_HomeController_index0_invoker, fakeValue, getClass, ne, withPrefix, call, controllers_HomeController_index0_route, eq, defaultPrefix, ##, finalize, hashCode.
-All member reference dependencies will be considered within this context.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/Evento.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/Evento.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/Evento.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/Evento.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/Evento.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala source file has the following regular definitions changed:
-	notify, count, _defaultPrefix, wait, $asInstanceOf, equals, asInstanceOf, listaEvent, synchronized, ReverseHomeController, $isInstanceOf, ReverseCountController, ReverseAssets, ReverseAsyncController, notifyAll, isInstanceOf, <init>, ==, clone, createEvent, message, toString, !=, getClass, ne, ReverseEventController, versioned, eq, ##, finalize, index, hashCode.
-All member reference dependencies will be considered within this context.
-The following modified names cause invalidation of /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/main.template.scala: Set(<init>, versioned)
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/main.template.scala...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/main.template.scala...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/main.template.scala)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/main.template.scala)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/main.template.scala source file has the following regular definitions changed:
-	notify, format, wait, $asInstanceOf, productArity, equals, asInstanceOf, f, synchronized, _display_, $isInstanceOf, ref, canEqual, main, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, main_Scope0, copy, toString, !=, getClass, copy$default$1, render, ne, eq, productIterator, ##, finalize, productElement, hashCode.
-All member reference dependencies will be considered within this context.
-The following modified names cause invalidation of /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/index.template.scala: Set(format, _display_, main, <init>, apply)
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/HomeController.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/HomeController.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/HomeController.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/HomeController.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/HomeController.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-None of the modified names appears in /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala. This dependency is not being considered for invalidation.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/EventController.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/EventController.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/EventController.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/EventController.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/EventController.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-None of the modified names appears in /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala. This dependency is not being considered for invalidation.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/Counter.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/Counter.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/Counter.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/Counter.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/Counter.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/routes.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/routes.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/routes.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/routes.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/controllers/routes.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-None of the modified names appears in /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/twirl/main/views/html/main.template.scala. This dependency is not being considered for invalidation.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/ListaEvento.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/ListaEvento.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/ListaEvento.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/ListaEvento.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/models/ListaEvento.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/ApplicationTimer.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/ApplicationTimer.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/ApplicationTimer.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/ApplicationTimer.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/services/ApplicationTimer.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-Invalidating /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/AsyncController.java...
-Invalidating (transitively) by inheritance from /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/AsyncController.java...
-Initial set of included nodes: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/AsyncController.java)
-Invalidated by transitive inheritance dependency: Set(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/AsyncController.java)
-The /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/app/controllers/AsyncController.java source file has the following regular definitions changed:
-	.
-All member reference dependencies will be considered within this context.
-None of the modified names appears in /home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/routes/main/router/Routes.scala. This dependency is not being considered for invalidation.
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
 Copy resource mappings: 
 	(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/conf/application.conf,/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/classes/application.conf)
 	(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/conf/routes,/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/classes/routes)
+	(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/conf/persistence.xml,/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/classes/persistence.xml)
 	(/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/conf/logback.xml,/home/edu/Documents/cc/cc8/aps/aps-tasabendo-service/target/scala-2.11/classes/logback.xml)
-Total time: 15 s, completed 17/10/2016 02:45:09
+Warning: node.js detection failed, sbt will use the Rhino based Trireme JavaScript engine instead to run JavaScript assets compilation, which in some cases may be orders of magnitude slower than using node.js.
+Total time: 4 s, completed 16/11/2016 10:48:22
 > server-post-command-cleanup
 > server-handle-next-server-request
 Done executing sbt server engine, result Right(Exit(0))
@@ -5386,4 +5932,4 @@ Waiting for socket thread
 Waiting for request processor thread
 Waiting for command engine result
 Returning control to sbt launcher with result Exit(0)
-Closing the 23322@edu-Inspiron-5447 logs at Mon Oct 17 02:45:32 BRST 2016, goodbye.
+Closing the 14009@edu-Inspiron-5447 logs at Wed Nov 16 10:49:38 BRST 2016, goodbye.

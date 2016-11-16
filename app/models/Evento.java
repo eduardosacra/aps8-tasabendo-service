@@ -1,19 +1,48 @@
 package models;
 
+import java.time.LocalDate;
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
 public class Evento {
+	private static int countId = 1;//Temporario
 	
-	private String id;
+	@Id
+	private int id;
+	@Column
 	private String categoria;
+	@Column
 	private double longitude;
+	@Column
 	private double latitude;
-	private String foto;
+	
+	private Date create_at;
+	
+	public Evento() {
+		setCreate_at();
+	}
+	//private String foto;//Nao sera implementado nessa versao
 	
 	
-	public String getId() {
+	public Date getCreate_at() {
+		return create_at;
+	}
+	public void setCreate_at() {
+		this.create_at = null;//setado quando instanciado
+	}
+	public void setCreate_at(LocalDate date) {
+		this.create_at = null;//setado quando instanciado
+	}
+	public int getId() {
 		return id;
 	}
-	public void setId(String id) {
-		this.id = id;
+	public void setId() {
+		
+		this.id = countId;//Temporario para simular o id sendo criado pelo banco
 	}
 	public String getCategoria() {
 		return categoria;
@@ -33,20 +62,20 @@ public class Evento {
 	public void setLatitude(double latitude) {
 		this.latitude = latitude;
 	}
-	public String getFoto() {
-		return foto;
-	}
-	public void setFoto(String foto) {
-		this.foto = foto;
-	}
-	
+//	public String getFoto() {
+//		return foto;
+//	}
+//	public void setFoto(String foto) {
+//		this.foto = foto;
+//	}
 	@Override
 	public int hashCode() {
 		final int prime = 31;
 		int result = 1;
-		result = prime * result + ((id == null) ? 0 : id.hashCode());
+		result = prime * result + id;
 		return result;
 	}
+	
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
@@ -56,11 +85,11 @@ public class Evento {
 		if (getClass() != obj.getClass())
 			return false;
 		Evento other = (Evento) obj;
-		if (id == null) {
-			if (other.id != null)
-				return false;
-		} else if (!id.equals(other.id))
+		if (id != other.id)
 			return false;
 		return true;
 	}
+	
+	
+	
 }

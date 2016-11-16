@@ -3,19 +3,28 @@
 # ~~~~
 
 # An example controller showing a sample home page
-GET     /                           controllers.HomeController.index
+GET    /                 controllers.HomeController.index
 
 # An example controller showing how to use dependency injection
-GET     /count                      controllers.CountController.count
+GET    /count            controllers.CountController.count
 
 # An example controller showing how to write asynchronous code
-GET     /message                    controllers.AsyncController.message
+GET    /message          controllers.AsyncController.message
 
 # Map static resources from the /public folder to the /assets URL path
-GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+GET    /assets/*file     controllers.Assets.versioned(path="/public", file: Asset)
 
 #Create Evento
-GET		/evento/create/:evento						controllers.EventController.createEvent(evento: JsonNode)
+POST   /evento/create/   controllers.EventController.createEvent
 
 #List all Events
-GET		/evento/list					controllers.EventController.listaEvent
+POST   /evento      controllers.EventController.createEvent
+
+#List all Events
+GET    /evento      controllers.EventController.listaEvento
+
+#List all Events
+GET    /evento/lista      controllers.EventController.listaEventos
+
+#Teste post
+POST	/tasabendo/funciona		controllers.TestePost.testePost
